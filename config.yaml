@@ -3,6 +3,7 @@ subject: 'cs'
 
 # 検索キーワード
 keywords:
+        contour:3
         kaggle: 3
         resnet: 3
         anomaly detection: 1
