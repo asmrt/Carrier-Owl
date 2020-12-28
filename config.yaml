@@ -1,8 +1,9 @@
 # arxivの学問領域の指定
-subject: 'cs'
+subject: 'cs.DB'
 
 # 検索キーワード
 keywords:
+        snowflake: 3
+        bigquery: 3
         kaggle: 3
         resnet: 3
-        anomaly detection: 1
